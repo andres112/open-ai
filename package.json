@@ -1,0 +1,16 @@
+{
+  "dependencies": {
+    "openai": "^4.16.0"
+  },
+  "name": "openai",
+  "version": "1.0.0",
+  "main": "openai-test.js",
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "description": "",
+  "type": "module"
+}
